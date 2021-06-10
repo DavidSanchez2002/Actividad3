@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Hito Lenguaje de Marcas</title>
+	<meta charset="utf-8">
+	<link rel="stylesheet" type="text/css" href="estilos.css">
+	<link rel="stylesheet" type="text/css" href="estilosmenu.css">
+	<script type="text/javascript" src="script.js"></script>
+	
+</head>
+
+<body onload="loadlista()">
+	<header id="cabecera">
+<h1 id="titulo">La Biblioteca De David</h1>
+	</header>
+
+	
+<nav>
+  <input type="checkbox" id="menu">
+  <label for="menu"> ☰ </label>
+  <ul>
+      <li class="enlaze"><a href="#"  onclick="generarTabla()">Todos</a></li>
+ 
+		<li class="enlaze"><a href="#" onclick="autor('J.R.R.Tolkien')">J.R.R.Tolkien</a></li>
+
+		<li class="enlaze"><a href="#" onclick="autor('J. K. Rowling')">J. K. Rowling</a></li>
+		<li class="enlaze"><a href="#" onclick="autor('Miguel de Cervantes')">Miguel de Cervantes</a></li>
+		<li class="enlaze"><a href="#" onclick="autor('Antoine de Saint-Exupéry')">Antoine de Saint-Exupéry</a></li>
+		<li class="enlaze"><a href="#" onclick="autor('Dan Brown')">Dan Brown</a></li>
+		<li class="enlaze"><a href="#" onclick="autor('Robert, Bonansinga, Jay Kirkman')">Robert, Bonansinga, Jay Kirkman</a></li>
+    </ul>
+</nav>
+
+<section>
+
+<table id="demo"></table>
+
+</section>
+</body>
+</html>

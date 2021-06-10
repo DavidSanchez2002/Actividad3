@@ -1,0 +1,243 @@
+
+[{
+		"genero": ["Literatura fantástica", "Drama", "Literatura juvenil", "Misterio", "Suspenso", "Novela de aprendizaje"],
+		"nombre": "Harry Potter y la piedra filosofal",
+		"autor": "J. K. Rowling",
+		"localizacion": {
+			"pasillo": 17,
+			"fila": 3,
+			"columna": 8,
+			"numero": 1
+		}
+
+	},
+	{
+		"genero": ["Literatura fantástica", "Drama", "Literatura juvenil", "Misterio", "Suspenso", "Novela de aprendizaje"],
+		"nombre": "Harry Potter y la cámara secreta",
+		"autor": "J. K. Rowling",
+		"localizacion": {
+			"pasillo": 17,
+			"fila": 3,
+			"columna": 8,
+			"numero": 2
+		}
+
+	},
+	{
+		"genero": ["Literatura fantástica", "Drama", "Literatura juvenil", "Misterio", "Suspenso", "Novela de aprendizaje"],
+		"nombre": "Harry Potter y el prisionero de Azkaban",
+		"autor": "J. K. Rowling",
+		"localizacion": {
+			"pasillo": 17,
+			"fila": 3,
+			"columna": 8,
+			"numero": 3
+		}
+
+	},
+	{
+		"genero": ["Literatura fantástica", "Drama", "Literatura juvenil", "Misterio", "Suspenso", "Novela de aprendizaje"],
+		"nombre": "Harry Potter y el cáliz de fuego",
+		"autor": "J. K. Rowling",
+		"localizacion": {
+			"pasillo": 17,
+			"fila": 3,
+			"columna": 8,
+			"numero": 4
+		}
+
+	},
+	{
+		"genero": ["Literatura fantástica", "Drama", "Literatura juvenil", "Misterio", "Suspenso", "Novela de aprendizaje"],
+		"nombre": "Harry Potter y la Orden del Fénix",
+		"autor": "J. K. Rowling",
+		"localizacion": {
+			"pasillo": 17,
+			"fila": 3,
+			"columna": 8,
+			"numero": 5
+		}
+
+	},
+	{
+		"genero": ["Libro de caballerías", "Parodia", "Sátira", "Aventuras", "Farsa", "Saga", "novela cómica", "romance histórico"],
+		"nombre": "Don Quijote de la Mancha",
+		"autor": "Miguel de Cervantes",
+		"localizacion": {
+			"pasillo": 3,
+			"fila": 6,
+			"columna": 2,
+			"numero": 12
+		}
+
+	},
+	{
+		"genero": ["Novela pastoril"],
+		"nombre": "La Galatea",
+		"autor": "Miguel de Cervantes",
+		"localizacion": {
+			"pasillo": 3,
+			"fila": 6,
+			"columna": 2,
+			"numero": 13
+		}
+
+	},
+	{
+		"genero": ["Ficción"],
+		"nombre": "La ilustre fregona",
+		"autor": "Miguel de Cervantes",
+		"localizacion": {
+			"pasillo": 3,
+			"fila": 6,
+			"columna": 2,
+			"numero": 14
+		}
+
+	},
+	{
+		"genero": ["Novela", "literatura fantástica", "Alta fantasía", "Libro de caballerías", "Aventuras", "Fantasía heroica"],
+		"nombre": "El Señor de los Anillos",
+		"autor": "J.R.R.Tolkien",
+		"localizacion": {
+			"pasillo": 7,
+			"fila": 13,
+			"columna": 9,
+			"numero": 2
+		}
+
+	},
+	{
+		"genero": ["Novela", "literatura fantástica", "Literatura infantil y juvenil", "Alta fantasía", "Atlas", "épico"],
+		"nombre": "El hobbit",
+		"autor": "J.R.R.Tolkien",
+		"localizacion": {
+			"pasillo": 7,
+			"fila": 13,
+			"columna": 9,
+			"numero": 3
+		}
+
+	},
+	{
+		"genero": ["Cuento de hadas", "Literatura infantil y juvenil", "Fábula", "Novela corta", "Ficción especulativa"],
+		"nombre": "El principito",
+		"autor": "Antoine de Saint-Exupéry",
+		"localizacion": {
+			"pasillo": 1,
+			"fila": 2,
+			"columna": 6,
+			"numero": 5
+		}
+
+	},
+	{
+		"genero": ["Biografía"],
+		"nombre": "Piloto de guerra",
+		"autor": "Antoine de Saint-Exupéry",
+		"localizacion": {
+			"pasillo": 1,
+			"fila": 2,
+			"columna": 6,
+			"numero": 6
+		}
+
+	},
+	
+	{
+		"genero": ["Novela", "Suspense", "Misterio", "Ficción detectivesca", "ficción conspirativa", "Novela policíaca"],
+		"nombre": "El código Da Vinci",
+		"autor": "Dan Brown",
+		"localizacion": {
+			"pasillo": 6,
+			"fila": 10,
+			"columna": 1,
+			"numero": 9
+		}
+
+	},
+	{
+		"genero": ["Novela", "Suspenso", "Misterio", "Ciencia ficción", "Suspense", "Tecno-thriller"],
+		"nombre": "La fortaleza digital",
+		"autor": "Dan Brown",
+		"localizacion": {
+			"pasillo": 6,
+			"fila": 10,
+			"columna": 1,
+			"numero": 10
+		}
+
+	},
+	{
+		"genero": ["Novela", "Suspenso", "Misterio", "ficción conspirativa", "Novela policíaca"],
+		"nombre": "Ángeles y demonios",
+		"autor": "Dan Brown",
+		"localizacion": {
+			"pasillo": 6,
+			"fila": 10,
+			"columna": 1,
+			"numero": 11
+		}
+
+	},
+	{
+		"genero": ["Novela", "Suspenso", "Misterio", "Novela policíaca", "Aventuras"],
+		"nombre": "Origen",
+		"autor": "Dan Brown",
+		"localizacion": {
+			"pasillo": 6,
+			"fila": 10,
+			"columna": 1,
+			"numero": 12
+		}
+
+	},	
+	{
+		"genero": ["Novela", "ficción"],
+		"nombre": "Walking Dead: The Road to Woodbury",
+		"autor": "Robert, Bonansinga, Jay Kirkman",
+		"localizacion": {
+			"pasillo": 25,
+			"fila": 32,
+			"columna": 8,
+			"numero": 1
+		}
+
+	},
+	{
+		"genero": ["Novela", "ficción"],
+		"nombre": "Walking Dead: La Caida Del Gobernador",
+		"autor": "Robert, Bonansinga, Jay Kirkman",
+		"localizacion": {
+			"pasillo": 25,
+			"fila": 32,
+			"columna": 8,
+			"numero": 2
+		}
+
+	},
+	{
+		"genero": ["Novela", "ficción"],
+		"nombre": "Walking Dead: La caida del gobernador 2",
+		"autor": "Robert, Bonansinga, Jay Kirkman",
+		"localizacion": {
+			"pasillo": 25,
+			"fila": 32,
+			"columna": 8,
+			"numero": 3
+		}
+
+	},
+	{
+		"genero": ["Novela", "ficción"],
+		"nombre": "Walking Dead: El Gobernador",
+		"autor": "Robert, Bonansinga, Jay Kirkman",
+		"localizacion": {
+			"pasillo": 25,
+			"fila": 32,
+			"columna": 8,
+			"numero": 4
+		}
+
+	}
+]

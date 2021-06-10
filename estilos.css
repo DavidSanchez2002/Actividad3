@@ -1,0 +1,34 @@
+
+body{
+	background-color: #AB70A6;
+	overflow-x: hidden
+	
+}
+
+#titulo{
+	text-align: center;
+	font-size: 50px;
+	background-color: #CEF4A8
+}
+
+table, td, th{
+	border-color: black;
+	border:solid;
+	padding: 30px;
+}
+table{
+	margin: 0 auto;
+	background-color: lightgrey;
+	
+
+}
+th{
+	background-color: black;
+	color: white;
+	
+}
+tr:hover{
+	background-color: #F179F8;
+}
+
+
